@@ -1,6 +1,5 @@
 # fake-profile-detection-across-online-social-network-using-neural-network
 Fake Profile Detection using CNN is a deep learning project that identifies fake accounts across online social networks. By leveraging convolutional neural networks on user data and activity patterns, it classifies profiles as genuine or fake, enhancing trust and security online.
-# Fake Profile Detection Across Online Social Networks using ANN
 
 This project implements a *Tkinter-based GUI application* to detect fake profiles in online social networks using an *Artificial Neural Network (ANN). It allows users to upload datasets, preprocess them, train a deep learning model, visualize accuracy/loss, and predict whether profiles are *genuine or fake.  
 
