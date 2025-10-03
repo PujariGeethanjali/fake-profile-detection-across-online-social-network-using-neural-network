@@ -110,7 +110,3 @@ Preventing misinformation and fraud
 
 ✨ Contributions are welcome – Feel free to fork this repo, raise issues, or submit pull requests.
 
----
-
-Do you want me to also prepare a *shorter README.md (just 5–6 lines, no sections)* for quick GitHub upload?
-
